@@ -1,5 +1,5 @@
 # 💫 About Me:
-Frontend  developer by PRODEMGE<br>Studying Computer Engineering at PUC Minas - 5/10
+Frontend  developer by PRODEMGE<br>Studying Computer Engineering at PUC Minas - 8/10
 
 
 ## 🌐 Socials:
